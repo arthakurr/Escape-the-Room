@@ -1,8 +1,4 @@
-"""Please don't start this until you have:
-    * submitted Exercises 1.1 to 1.8
-    * completed the Planning for Solo Game
-    * reviewed the Ethical Computer Use assignment
-"""
+
 
 # Do not modify the code below since it's needed to run the autograder accurately
 
